@@ -28,7 +28,7 @@ class ScanManga : ParsedHttpSource() {
 
     override val name = "Scan-Manga"
 
-    override val baseUrl = "https://www.scan-manga.com"
+    override val baseUrl = "https://m.scan-manga.com"
 
     override val lang = "fr"
 
